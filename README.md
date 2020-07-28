@@ -2,8 +2,8 @@
 <html>
 <head>
     <div><a href="https://github.com/myriarm/1.html">
-    <p align="center"><img border="0" src="main.png" title="개나대는 웹사이트" width="60%" /></p></a><div>
-      <style>
+    <p align="center"><img border="0" src="main.png" title="개나대는 웹사이트" width="60%" /></p></a>
+<style>
         .navi {
           list-style:none;
           float:left;
