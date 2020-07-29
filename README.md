@@ -3,7 +3,6 @@
 <head>
     <div><a href="https://github.com/myriarm/1.html">
     <p align="center"><img border="0" src="main.png" title="개나대는 웹사이트" width="60%" /></p></a>
-        </head>
 <style>
         .navi {
           list-style:none;
@@ -26,6 +25,7 @@ a:visited {text-decoration:none; color: #ffffff}
 a:active {text-decoration:none; color: #ffffff}
 a:hover {text-decoration:none; color: #ffffff}
 </style>
+</head>
 <body>
           <ul class="navi">
                     <li class="navi_li"><a href="https://www.naver.com">소개| </a></li>
